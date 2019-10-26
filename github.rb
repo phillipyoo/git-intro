@@ -12,7 +12,7 @@ if changes == true
   commit = true
   commit += 1
 end
-
+ 
 if commit = true
   puts "We push our changes to github"
 end
